@@ -7,6 +7,7 @@
 <img align="left" src="img/sass-icon.svg" width="50" title="hover text" alt="sass" />
 <img align="left" src="img/js-icon.svg" width="50" title="hover text" alt="js" />
 <img align="left" src="img/jquery-icon.svg" width="50" title="hover text" alt="jquery" />
+<img align="left" src="img/git-icon.svg" width="50" title="hover text" alt="git" />
 
 <br />
 <br />
